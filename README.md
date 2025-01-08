@@ -6,7 +6,7 @@ US dollar bill: 6.14" x 2.61" / 2.3524904214559386 aspect ratio
 
 8" x 10 1/2" US Letter with 1/4" margins / 1.3125 aspect ratio
 
-Four bills on one sheet:
+Six bills on one sheet:
 
 5 1/4" x 2 3/16" / 2.4 aspect ratio
 
